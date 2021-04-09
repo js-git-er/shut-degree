@@ -1,0 +1,1 @@
+Application to expose a HTTP Greeting endpoint using SpringBoot & Secured by Red Hat SSO
